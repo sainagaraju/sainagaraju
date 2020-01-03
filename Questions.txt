@@ -1,0 +1,28 @@
+Raptor Questions:
+
+1.Finding the greatest of 3 numbers
+2.Testing Divisibility with 2 and 3 but not 4
+3.Given 2 ints, a and b, return True if one if them is 10 or if their sum is 10.
+	makes10(9, 10) → True
+	makes10(9, 9) → False
+	makes10(1, 9) → True
+4.Given 2 int values, return True if one is negative and one is positive. Except if the parameter "negative" is True, then return True only if both are negative.
+	pos_neg(1, -1,true) → True
+	pos_neg(-1, 1, False) → True
+	pos_neg(-4, -5, True) → True
+5Given an int n, return True if it is within 10 of 100 or 200. Note: abs(num) computes the absolute value of a number.
+	near_hundred(93) → True
+	near_hundred(90) → True
+	near_hundred(89) → False
+	
+
+6.Procedure to print sum of N natural numbers.
+
+7.Procedure to calculate the factorial of a given number
+	Factorial of a given number as a procedure
+	Factorial(5) -> 120
+	Factorial (6) -> 720
+8. Procedure to generate multiplication tables. 
+	MT(3, 5, 7) -> 3 X 5 = 15
+	3 X 6 = 18
+	3 X 7 = 21
